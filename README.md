@@ -20,7 +20,7 @@
 - Modular Python microservice communicating with Node backend
 
 
-## 🏗 Tech Stack
+## Tech Stack
 
 ### **Frontend**
 - React + TypeScript  
@@ -42,3 +42,11 @@
 - Python  
 - FastAPI  
 - Groq Llama-3 API 
+
+### Setup .env file
+
+```ts
+PORT=...
+MONGO_DB_URI=...
+JWT_SECRET=...
+```
